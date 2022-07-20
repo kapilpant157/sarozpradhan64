@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm @sarozpradhan64</h1>
-- 👨‍💻 All of my projects are available at [https://pradhansaroj.com.np](https://pradhansaroj.com.np)
+- 👨‍💻 All of my projects are available at my webiste (https://pradhansaroj.com.np)
 
 - 📝 I regularly write articles on [https://blazecodes.com](https://blazecodes.com)
 
